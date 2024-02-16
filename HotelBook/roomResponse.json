@@ -1,0 +1,314 @@
+{
+    "GetHotelRoomResult": {
+        "ResponseStatus": 1,
+        "Error": {
+            "ErrorCode": 0,
+            "ErrorMessage": ""
+        },
+        "TraceId": "da5af7e4-548b-45d3-b935-7649d2bec3ad",
+        "IsUnderCancellationAllowed": true,
+        "IsPolicyPerStay": false,
+        "HotelRoomsDetails": [
+            {
+                "AvailabilityType": "Confirm",
+                "ChildCount": 0,
+                "RequireAllPaxDetails": true,
+                "RoomId": 0,
+                "RoomStatus": 0,
+                "RoomIndex": 3,
+                "RoomTypeCode": "215753634|258236864$37316^^1^^215753634|258236864|37316|141~!:~3",
+                "RoomDescription": "Deluxe Room,1 Double Bed,Nonsmoking",
+                "RoomTypeName": "Deluxe Room,1 Double Bed,Nonsmoking",
+                "RatePlanCode": "215753634|258236864|37316|141",
+                "RatePlan": 0,
+                "RatePlanName": "Room Only",
+                "InfoSource": "FixedCombination",
+                "SequenceNo": "TH~~39670359~3",
+                "DayRates": [
+                    {
+                        "Amount": 232.29,
+                        "Date": "2024-07-22T00:00:00"
+                    },
+                    {
+                        "Amount": 233.08,
+                        "Date": "2024-07-23T00:00:00"
+                    }
+                ],
+                "IsPerStay": false,
+                "SupplierPrice": null,
+                "Price": {
+                    "CurrencyCode": "INR",
+                    "RoomPrice": 465.37,
+                    "Tax": 260.48,
+                    "ExtraGuestCharge": 0.00,
+                    "ChildCharge": 0.00,
+                    "OtherCharges": 363.72,
+                    "Discount": 0.00,
+                    "PublishedPrice": 2603.21,
+                    "PublishedPriceRoundedOff": 2603,
+                    "OfferedPrice": 1089.57,
+                    "OfferedPriceRoundedOff": 1090,
+                    "AgentCommission": 1513.64,
+                    "AgentMarkUp": 0.00,
+                    "ServiceTax": 65.42,
+                    "TCS": 0.00,
+                    "TDS": 605.14,
+                    "ServiceCharge": 0,
+                    "TotalGSTAmount": 65.4218,
+                    "GST": {
+                        "CGSTAmount": 0.0000,
+                        "CGSTRate": 0,
+                        "CessAmount": 0.0000,
+                        "CessRate": 0,
+                        "IGSTAmount": 65.4218,
+                        "IGSTRate": 18,
+                        "SGSTAmount": 0.0000,
+                        "SGSTRate": 0,
+                        "TaxableAmount": 363.44
+                    }
+                },
+                "RoomPromotion": "Private sale|",
+                "Amenities": [
+                    "Room Only"
+                ],
+                "Amenity": [
+                    "Room Only"
+                ],
+                "SmokingPreference": "NoPreference",
+                "BedTypes": [],
+                "HotelSupplements": [],
+                "LastCancellationDate": "2024-02-13T23:59:59",
+                "CancellationPolicies": [
+                    {
+                        "Charge": 100,
+                        "ChargeType": 2,
+                        "Currency": "INR",
+                        "FromDate": "2024-02-14T00:00:00",
+                        "ToDate": "2024-07-11T23:59:59"
+                    },
+                    {
+                        "Charge": 100,
+                        "ChargeType": 2,
+                        "Currency": "INR",
+                        "FromDate": "2024-07-12T00:00:00",
+                        "ToDate": "2024-07-24T23:59:59"
+                    }
+                ],
+                "LastVoucherDate": "2024-02-14T00:00:00",
+                "CancellationPolicy": "Deluxe Room,1 Double Bed,Nonsmoking#^#100.00% of total amount will be charged, If cancelled between 14-Feb-2024 00:00:00 and 11-Jul-2024 23:59:59.|100.00% of total amount will be charged, If cancelled between 12-Jul-2024 00:00:00 and 24-Jul-2024 23:59:59.|#!#",
+                "Inclusion": [
+                    "Room Only"
+                ],
+                "IsPassportMandatory": false,
+                "IsPANMandatory": true
+            },
+            {
+                "AvailabilityType": "Confirm",
+                "ChildCount": 0,
+                "RequireAllPaxDetails": true,
+                "RoomId": 0,
+                "RoomStatus": 0,
+                "RoomIndex": 2,
+                "RoomTypeCode": "215753635|258236866$37316^^1^^215753635|258236866|37316|141~!:~2",
+                "RoomDescription": "Super Deluxe Room,1 Double Bed,Nonsmoking",
+                "RoomTypeName": "Super Deluxe Room,1 Double Bed,Nonsmoking",
+                "RatePlanCode": "215753635|258236866|37316|141",
+                "RatePlan": 0,
+                "RatePlanName": "Room Only",
+                "InfoSource": "FixedCombination",
+                "SequenceNo": "TH~~39670359~2",
+                "DayRates": [
+                    {
+                        "Amount": 299.00,
+                        "Date": "2024-07-22T00:00:00"
+                    },
+                    {
+                        "Amount": 298.20,
+                        "Date": "2024-07-23T00:00:00"
+                    }
+                ],
+                "IsPerStay": false,
+                "SupplierPrice": null,
+                "Price": {
+                    "CurrencyCode": "INR",
+                    "RoomPrice": 597.20,
+                    "Tax": 336.72,
+                    "ExtraGuestCharge": 0.00,
+                    "ChildCharge": 0.00,
+                    "OtherCharges": 466.96,
+                    "Discount": 0.00,
+                    "PublishedPrice": 3344.95,
+                    "PublishedPriceRoundedOff": 3345,
+                    "OfferedPrice": 1400.88,
+                    "OfferedPriceRoundedOff": 1401,
+                    "AgentCommission": 1944.07,
+                    "AgentMarkUp": 0.00,
+                    "ServiceTax": 84.08,
+                    "TCS": 0.00,
+                    "TDS": 777.47,
+                    "ServiceCharge": 0,
+                    "TotalGSTAmount": 84.0763,
+                    "GST": {
+                        "CGSTAmount": 0.0000,
+                        "CGSTRate": 0,
+                        "CessAmount": 0.0000,
+                        "CessRate": 0,
+                        "IGSTAmount": 84.0763,
+                        "IGSTRate": 18,
+                        "SGSTAmount": 0.0000,
+                        "SGSTRate": 0,
+                        "TaxableAmount": 467.08
+                    }
+                },
+                "RoomPromotion": "Private sale|",
+                "Amenities": [
+                    "Room Only"
+                ],
+                "Amenity": [
+                    "Room Only"
+                ],
+                "SmokingPreference": "NoPreference",
+                "BedTypes": [],
+                "HotelSupplements": [],
+                "LastCancellationDate": "2024-02-13T23:59:59",
+                "CancellationPolicies": [
+                    {
+                        "Charge": 100,
+                        "ChargeType": 2,
+                        "Currency": "INR",
+                        "FromDate": "2024-02-14T00:00:00",
+                        "ToDate": "2024-07-11T23:59:59"
+                    },
+                    {
+                        "Charge": 100,
+                        "ChargeType": 2,
+                        "Currency": "INR",
+                        "FromDate": "2024-07-12T00:00:00",
+                        "ToDate": "2024-07-24T23:59:59"
+                    }
+                ],
+                "LastVoucherDate": "2024-02-14T00:00:00",
+                "CancellationPolicy": "Super Deluxe Room,1 Double Bed,Nonsmoking#^#100.00% of total amount will be charged, If cancelled between 14-Feb-2024 00:00:00 and 11-Jul-2024 23:59:59.|100.00% of total amount will be charged, If cancelled between 12-Jul-2024 00:00:00 and 24-Jul-2024 23:59:59.|#!#",
+                "Inclusion": [
+                    "Room Only"
+                ],
+                "IsPassportMandatory": false,
+                "IsPANMandatory": true
+            },
+            {
+                "AvailabilityType": "Confirm",
+                "ChildCount": 0,
+                "RequireAllPaxDetails": true,
+                "RoomId": 0,
+                "RoomStatus": 0,
+                "RoomIndex": 1,
+                "RoomTypeCode": "215753636|258236868$37316^^1^^215753636|258236868|37316|141~!:~1",
+                "RoomDescription": "Executive Room,1 Double Bed,Nonsmoking",
+                "RoomTypeName": "Executive Room,1 Double Bed,Nonsmoking",
+                "RatePlanCode": "215753636|258236868|37316|141",
+                "RatePlan": 0,
+                "RatePlanName": "Room Only",
+                "InfoSource": "FixedCombination",
+                "SequenceNo": "TH~~39670359~1",
+                "DayRates": [
+                    {
+                        "Amount": 333.14,
+                        "Date": "2024-07-22T00:00:00"
+                    },
+                    {
+                        "Amount": 333.14,
+                        "Date": "2024-07-23T00:00:00"
+                    }
+                ],
+                "IsPerStay": false,
+                "SupplierPrice": null,
+                "Price": {
+                    "CurrencyCode": "INR",
+                    "RoomPrice": 666.29,
+                    "Tax": 374.84,
+                    "ExtraGuestCharge": 0.00,
+                    "ChildCharge": 0.00,
+                    "OtherCharges": 520.96,
+                    "Discount": 0.00,
+                    "PublishedPrice": 3729.31,
+                    "PublishedPriceRoundedOff": 3729,
+                    "OfferedPrice": 1562.09,
+                    "OfferedPriceRoundedOff": 1562,
+                    "AgentCommission": 2167.23,
+                    "AgentMarkUp": 0.00,
+                    "ServiceTax": 93.70,
+                    "TCS": 0.00,
+                    "TDS": 867.21,
+                    "ServiceCharge": 0,
+                    "TotalGSTAmount": 93.7014,
+                    "GST": {
+                        "CGSTAmount": 0.0000,
+                        "CGSTRate": 0,
+                        "CessAmount": 0.0000,
+                        "CessRate": 0,
+                        "IGSTAmount": 93.7014,
+                        "IGSTRate": 18,
+                        "SGSTAmount": 0.0000,
+                        "SGSTRate": 0,
+                        "TaxableAmount": 520.56
+                    }
+                },
+                "RoomPromotion": "Private sale|",
+                "Amenities": [
+                    "Room Only"
+                ],
+                "Amenity": [
+                    "Room Only"
+                ],
+                "SmokingPreference": "NoPreference",
+                "BedTypes": [],
+                "HotelSupplements": [],
+                "LastCancellationDate": "2024-02-13T23:59:59",
+                "CancellationPolicies": [
+                    {
+                        "Charge": 100,
+                        "ChargeType": 2,
+                        "Currency": "INR",
+                        "FromDate": "2024-02-14T00:00:00",
+                        "ToDate": "2024-07-11T23:59:59"
+                    },
+                    {
+                        "Charge": 100,
+                        "ChargeType": 2,
+                        "Currency": "INR",
+                        "FromDate": "2024-07-12T00:00:00",
+                        "ToDate": "2024-07-24T23:59:59"
+                    }
+                ],
+                "LastVoucherDate": "2024-02-14T00:00:00",
+                "CancellationPolicy": "Executive Room,1 Double Bed,Nonsmoking#^#100.00% of total amount will be charged, If cancelled between 14-Feb-2024 00:00:00 and 11-Jul-2024 23:59:59.|100.00% of total amount will be charged, If cancelled between 12-Jul-2024 00:00:00 and 24-Jul-2024 23:59:59.|#!#",
+                "Inclusion": [
+                    "Room Only"
+                ],
+                "IsPassportMandatory": false,
+                "IsPANMandatory": true
+            }
+        ],
+        "RoomCombinations": {
+            "InfoSource": "FixedCombination",
+            "IsPolicyPerStay": false,
+            "RoomCombination": [
+                {
+                    "RoomIndex": [
+                        3
+                    ]
+                },
+                {
+                    "RoomIndex": [
+                        2
+                    ]
+                },
+                {
+                    "RoomIndex": [
+                        1
+                    ]
+                }
+            ]
+        }
+    }
+}  

@@ -1,0 +1,15 @@
+{
+    "HotelChangeRequestStatusResult": {
+        "B2B2BStatus": false,
+        "CancellationChargeBreakUp": null,
+        "TotalServiceCharge": 0,
+        "ResponseStatus": 1,
+        "Error": {
+            "ErrorCode": 0,
+            "ErrorMessage": ""
+        },
+        "TraceId": "d4f077e4-cc79-41c4-a8f1-cfd179f0ddaa",
+        "ChangeRequestId": 303893,
+        "ChangeRequestStatus": 2
+    }
+}

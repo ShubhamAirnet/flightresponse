@@ -1,0 +1,24 @@
+{
+    "Response": {
+        "Error": {
+            "ErrorCode": 0,
+            "ErrorMessage": ""
+        },
+        "FareRules": [
+            {
+                "Airline": "IX",
+                "DepartureTime": "0001-01-01T00:00:00",
+                "Destination": "BOM",
+                "FareBasisCode": "XNRA015",
+                "FareInclusions": [],
+                "FareRestriction": null,
+                "FareRuleDetail": "The FareBasisCode is: XNRA015<br />EC DOMESTIC FARE RULES<br /><br /><br/> <br/><ul><li>APART FROM AIRLINE CHARGES,GST+RAF+ APPLICABLE CHARGES IF ANY, WILL BE CHARGED.</li><li>MENTIONED FEE ARE INDICATIVE PER PAX AND PER SECTOR.</li><li>FOR DOMESTIC BOOKINGS, PASSENGERS ARE REQUIRED TO SUBMIT THE CANCELLATION OR REISSUE REQUEST AT LEAST 2 HOURS BEFORE THE AIRLINES CANCELLATION AND REISSUE POLICY.</li><li>FOR INTERNATIONAL BOOKINGS, PASSENGERS ARE REQUIRED TO SUBMIT THE CANCELLATION OR REISSUE REQUEST AT LEAST 4 HOURS BEFORE THE AIRLINES CANCELLATION AND REISSUE POLICY.</li></ul>",
+                "FlightId": 0,
+                "Origin": "DEL",
+                "ReturnDate": "0001-01-01T00:00:00"
+            }
+        ],
+        "ResponseStatus": 1,
+        "TraceId": "c311ed08-6930-43d9-aae8-a66af0e595d9"
+    }
+}

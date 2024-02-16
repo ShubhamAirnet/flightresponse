@@ -1,0 +1,20 @@
+{
+    "EndUserIp":"49.43.88.155",
+    "TokenId":"c586fed5-aa02-430d-8943-2e1a5bbe9144",
+    "CheckInDate":"22/07/2024",
+    "NoOfNights":2,
+    "CountryCode":"IN",
+    "CityId":125928,
+    "IsTBOMapped":"false",
+    "Radius":"5",
+    "PreferredCurrency":"INR",
+    "GuestNationality":"IN",
+    "NoOfRooms":1,
+    "RoomGuests":[{
+        "NoOfAdults":2,
+        "NoOfChild":0
+    }],
+    "MaxRating":4,
+    "MinRating":1
+
+}

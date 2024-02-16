@@ -1,0 +1,41 @@
+{
+    "ResultIndex": 8,
+    "HotelCode": "39670359",
+    "HotelName": "Hotel Nanda",
+    "GuestNationality": "IN",
+    "NoOfRooms": 1,
+    "IsVoucherBooking": "true",
+    "HotelRoomsDetails": [
+      {
+        "RoomIndex": 3,
+        "RoomTypeCode": "215753634|258236864$37316^^1^^215753634|258236864|37316|141~!:~3",
+        "RoomTypeName": "Deluxe Room,1 Double Bed,Nonsmoking",
+        "RatePlanCode": "215753634|258236864|37316|141",
+        "BedTypeCode": null,
+        "SmokingPreference": 0,
+        "Supplements": null,
+        "Price": {
+                      "CurrencyCode": "INR",
+                      "RoomPrice": 465.37,
+                      "Tax": 260.48,
+                      "ExtraGuestCharge": 0.00,
+                      "ChildCharge": 0.00,
+                      "OtherCharges": 363.72,
+                      "Discount": 0.00,
+                      "PublishedPrice": 2603.21,
+                      "PublishedPriceRoundedOff": 2603,
+                      "OfferedPrice": 1089.57,
+                      "OfferedPriceRoundedOff": 1090,
+                      "AgentCommission": 1513.64,
+                      "AgentMarkUp": 0.00,
+                      "ServiceTax": 65.42,
+                      "TCS": 0.00,
+                      "TDS": 605.14
+                      
+                  }
+      }
+    ],
+    "EndUserIp": "49.43.88.155",
+    "TokenId": "c586fed5-aa02-430d-8943-2e1a5bbe9144",
+    "TraceId": "da5af7e4-548b-45d3-b935-7649d2bec3ad"
+  }

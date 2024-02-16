@@ -1,0 +1,19 @@
+{
+    "BookResult": {
+        "VoucherStatus": true,
+        "ResponseStatus": 1,
+        "Error": {
+            "ErrorCode": 0,
+            "ErrorMessage": ""
+        },
+        "TraceId": "da5af7e4-548b-45d3-b935-7649d2bec3ad",
+        "Status": 1,
+        "HotelBookingStatus": "Confirmed",
+        "InvoiceNumber": "SM/2324/7758",
+        "ConfirmationNo": "14NL5K(7541268648158)",
+        "BookingRefNo": "500426967422910",
+        "BookingId": 1875765,
+        "IsPriceChanged": false,
+        "IsCancellationPolicyChanged": false
+    }
+}
